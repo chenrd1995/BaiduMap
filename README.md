@@ -6,13 +6,13 @@
 
 按照他的要求注册账号，我的秒过，注册后的免费账号的额度每天三万次，50QPS
 
-![](C:\Users\crd57\Pictures\md\1.png)
+![](https://raw.githubusercontent.com/crd57/Graph-bed/master/img/1.png)
 
 
 
-![](C:\Users\crd57\Pictures\md\2.png)
+![](https://raw.githubusercontent.com/crd57/Graph-bed/master/img/2.png)
 
-![image-20200219181543368](C:\Users\crd57\AppData\Roaming\Typora\typora-user-images\image-20200219181543368.png)
+
 
 得到key
 
@@ -28,7 +28,7 @@ pip install requests shapely geopandas
 
 根据注释修改Position.py文件中的内容
 
-![](C:\Users\crd57\Pictures\md\3.png)
+![](https://raw.githubusercontent.com/crd57/Graph-bed/master/img/3.png)
 
 ```shell
 python Position.py
